@@ -1,0 +1,461 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "id": "1",
+      "text": "Verdade: Qual foi o seu maior mico em público?",
+      "type": "verdade",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "2",
+      "text": "Desafio: Beba 2 goles e cante o refrão de uma música escolhida pelos amigos.",
+      "type": "desafio",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "3",
+      "text": "Eu nunca: Nunca agradeci errado alguém no trabalho.",
+      "type": "eu_nunca",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "4",
+      "text": "Vote: Quem do grupo tem mais chance de esquecer o nome de alguém famoso?",
+      "type": "vote",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "5",
+      "text": "Regra: Durante 3 turnos, ninguém pode dizer a palavra 'eu'.",
+      "type": "regra",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "6",
+      "text": "Ação rápida: Faça 10 polichinelos ou beba 3 goles.",
+      "type": "acao_rapida",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "7",
+      "text": "Verdade: Qual foi a última mentira que você contou?",
+      "type": "verdade",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "8",
+      "text": "Desafio: Imite seu animal favorito por 30 segundos. Se o grupo não adivinhar, beba 1 gole.",
+      "type": "desafio",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "9",
+      "text": "Eu nunca: Nunca colei em uma prova importante na escola ou faculdade.",
+      "type": "eu_nunca",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "10",
+      "text": "Vote: Quem do grupo sobreviveria mais tempo em um apocalipse zumbi? O mais votado escolhe 2 pessoas para beber.",
+      "type": "vote",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "11",
+      "text": "Regra: Ninguém pode rir. O primeiro a rir bebe 2 goles.",
+      "type": "regra",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "12",
+      "text": "Ação rápida: O último a tocar o nariz bebe 1 gole.",
+      "type": "acao_rapida",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "13",
+      "text": "Verdade: Qual o seu maior arrependimento na vida amorosa?",
+      "type": "verdade",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "14",
+      "text": "Desafio: Poste uma selfie feia no seu story do Instagram por 5 minutos ou beba 4 goles.",
+      "type": "desafio",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "15",
+      "text": "Eu nunca: Nunca fui pego fazendo algo que não devia pelos meus pais.",
+      "type": "eu_nunca",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "16",
+      "text": "Vote: Quem do grupo é o pior em guardar segredos? O mais votado bebe 3 goles.",
+      "type": "vote",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "17",
+      "text": "Regra: Toda vez que alguém beber, tem que fazer um barulho de animal. Quem esquecer, bebe 2 goles extras.",
+      "type": "regra",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "18",
+      "text": "Ação rápida: O primeiro a trazer um objeto azul bebe 1 gole (os outros bebem 2).",
+      "type": "acao_rapida",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "19",
+      "text": "Verdade: Qual app você mais usa no celular que teria vergonha de admitir?",
+      "type": "verdade",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "20",
+      "text": "Desafio: Faça uma dança constrangedora no meio da sala por 15 segundos.",
+      "type": "desafio",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "21",
+      "text": "Eu nunca: Nunca comi comida que caiu no chão (regra dos 5 segundos não conta).",
+      "type": "eu_nunca",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "22",
+      "text": "Vote: Quem tem o gosto musical mais duvidoso? O mais votado deve tocar uma música e beber 2.",
+      "type": "vote",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "23",
+      "text": "Regra: Todos devem falar em terceira pessoa até a próxima rodada. Quem errar, bebe 1 gole.",
+      "type": "regra",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "24",
+      "text": "Ação rápida: O último a ficar em um pé só bebe 4 goles.",
+      "type": "acao_rapida",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "25",
+      "text": "Verdade: Se você pudesse trocar de vida com alguém do grupo por um dia, quem seria e por quê?",
+      "type": "verdade",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "26",
+      "text": "Desafio: Deixe o grupo enviar uma mensagem de voz (aprovada) do seu celular para alguém.",
+      "type": "desafio",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "27",
+      "text": "Eu nunca: Nunca saí de um encontro no meio porque estava ruim.",
+      "type": "eu_nunca",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "28",
+      "text": "Vote: Quem é o mais provável a rir em um momento sério? O mais votado bebe 1.",
+      "type": "vote",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "29",
+      "text": "Regra: Todos devem trocar de lugar. O último a sentar bebe 2 goles.",
+      "type": "regra",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "30",
+      "text": "Desafio: Fale com sotaque de outro estado (ou país) até sua próxima vez. Se errar, beba 1 gole.",
+      "type": "desafio",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "en_001",
+      "text": "Eu nunca perdi o horário por causa de ressaca.",
+      "type": "eu_nunca",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "en_002",
+      "text": "Eu nunca mandei mensagem para a pessoa errada por engano.",
+      "type": "eu_nunca",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "en_003",
+      "text": "Eu nunca fugi sem pagar uma conta (mesmo que pequena).",
+      "type": "eu_nunca",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "en_004",
+      "text": "Eu nunca beijei mais de uma pessoa na mesma noite.",
+      "type": "eu_nunca",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vd_001",
+      "text": "Qual foi a última vez que você riu até chorar?",
+      "type": "verdade",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vd_002",
+      "text": "Qual o maior mico que você já pagou em público?",
+      "type": "verdade",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vd_003",
+      "text": "Qual segredo você nunca contou a ninguém aqui?",
+      "type": "verdade",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vd_004",
+      "text": "Fale o alfabeto de trás para frente. Errou? Beba 2 goles.",
+      "type": "desafio",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vd_005",
+      "text": "Envie um emoji aleatório para o último contato fixado. Se recusar, beba 3 goles.",
+      "type": "desafio",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vd_006",
+      "text": "Troque de lugar com a pessoa à sua direita por 1 rodada e imite ela. Se recusar, beba 3.",
+      "type": "desafio",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "dr_001",
+      "text": "Tire uma selfie com todos fazendo careta. Quem não aparecer, bebe 1.",
+      "type": "acao_rapida",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "dr_002",
+      "text": "Fale um trava-língua sem errar. Errou, bebe 1.",
+      "type": "acao_rapida",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "dr_003",
+      "text": "Dê 3 voltas na mesa em 10 segundos. Não conseguiu, bebe 2.",
+      "type": "acao_rapida",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "dr_004",
+      "text": "Cante o refrão de uma música escolhida pelo grupo. Se recusar, beba 3.",
+      "type": "acao_rapida",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "pc_001",
+      "text": "Qual foi a cantada mais sem noção que você já usou ou recebeu?",
+      "type": "verdade",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "pc_002",
+      "text": "Eu nunca mandei mensagem no madrugada arrependi depois.",
+      "type": "eu_nunca",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "pc_003",
+      "text": "Quem aqui você acha que beija melhor? Justifique ou beba 3.",
+      "type": "verdade",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "py_001",
+      "text": "Todos brindam! Cada um bebe 1 gole.",
+      "type": "acao_rapida",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "py_002",
+      "text": "O dono do celular com menos bateria bebe 2 goles.",
+      "type": "acao_rapida",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "py_003",
+      "text": "Quem estiver usando meias coloridas distribui 3 goles entre os outros.",
+      "type": "acao_rapida",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "py_004",
+      "text": "Todos com nome começando com A–M bebem 2 goles.",
+      "type": "acao_rapida",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "rg_001",
+      "text": "Regra: A partir de agora, não pode dizer 'beber'. Quem disser, bebe 1.",
+      "type": "regra",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "rg_002",
+      "text": "Regra: Todos devem falar rimando. Quem esquecer, bebe 1.",
+      "type": "regra",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "rg_003",
+      "text": "Regra: Toda vez que alguém rir alto, a pessoa à esquerda bebe 1.",
+      "type": "regra",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vt_001",
+      "text": "Vote: Quem tem a melhor história de viagem? Vencedor escolhe alguém para beber 2.",
+      "type": "vote",
+      "category": "leve",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vt_002",
+      "text": "Vote: Quem provavelmente chegaria atrasado no próprio casamento?",
+      "type": "vote",
+      "category": "medio",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    },
+    {
+      "id": "vt_003",
+      "text": "Vote: Quem é o mais competitivo do grupo?",
+      "type": "vote",
+      "category": "pesado",
+      "created_at": "2025-01-01T00:00:00Z",
+      "source": "builtin"
+    }
+  ]
+}

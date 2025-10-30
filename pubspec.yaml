@@ -1,0 +1,38 @@
+name: drinkdeck
+description: Jogo de cartas social DrinkDeck.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_riverpod: ^2.5.1
+  
+  flutter_animate: ^4.5.0
+
+  uuid: ^4.4.0
+  share_plus: ^9.0.0
+  intl: ^0.19.0
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  
+  build_runner: ^2.4.10
+  riverpod_generator: ^2.4.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/questions.json
+    - assets/fonts/
+  
+  
