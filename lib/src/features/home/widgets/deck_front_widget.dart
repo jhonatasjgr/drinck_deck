@@ -60,7 +60,8 @@ class DeckFrontWidget extends StatelessWidget {
                   item.text,
                   textAlign: TextAlign.center,
                   style: const TextStyle(
-                    color: AppColors.offWhite,
+                    // color: AppColors.offWhite,
+                    color: AppColors.gold,
                     fontSize: 22,
                     fontWeight: FontWeight.w500,
                   ),
